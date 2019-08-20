@@ -8,6 +8,7 @@ namespace ConsoleApp30
         {
             Console.WriteLine("Hello woroud!");
             Console.WriteLine("Hello Hamid!");
+            Console.WriteLine("wa ya amiiiiiiine!");
         }
     }
 }
