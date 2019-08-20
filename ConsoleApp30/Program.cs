@@ -7,6 +7,7 @@ namespace ConsoleApp30
         static void Main(string[] args)
         {
             Console.WriteLine("Hello woroud!");
+            Console.WriteLine("Hello Hamid!");
         }
     }
 }
